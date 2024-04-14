@@ -40,7 +40,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/thanhtin4401/thanhtin4401/assets/85281544/a65ececb-7042-4a69-b9a6-71381c48b003" alt="giphy" />
+  <img src="https://raw.githubusercontent.com/hoathaivan20062002/hoathaivan20062002/773bfdc1192d26c05114b447939bf9b182dea388/git.gif" alt="giphy" />
 </p>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
